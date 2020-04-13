@@ -1,0 +1,3 @@
+France - {Paris=0}
+Japan - {Tokyo=1}
+India - {New Delhi=1}

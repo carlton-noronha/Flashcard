@@ -1,0 +1,29 @@
+1586779347899 add
+1586779347899 The pair ("France":"Paris") has been added.
+1586779347899 add
+1586779347899 The pair ("Japan":"Tokyo") has been added.
+1586779347899 add
+1586779347899 The pair ("India":"New Delhi") has been added.
+1586779347899 ask
+1586779347899 4
+1586779347899 Print the definition of "France":
+1586779347899 Correct answer.
+1586779347899 Print the definition of "Japan":
+1586779347899Wrong answer. (The correct one is "Tokyo", you've just written the definition of "India".)
+1586779347899 Print the definition of "India":
+1586779347899 Wrong answer. The correct one is "New Delhi".
+1586779347899 Print the definition of "France":
+1586779347899 Correct answer.
+1586779347899 hardest card
+1586779347899 export
+1586779347899 capitals.txt
+1586779347899 3 cards have been saved.
+1586779347899 reset stats
+1586779347899 hardest card
+1586779347899 import
+1586779347899 capitals.txt
+1586779347899 3 cards have been loaded.
+1586779347899 hardest card
+1586779347899 log
+1586779347899 logs13-04-20.txt
+1586779347899 The log has been saved.
