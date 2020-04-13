@@ -19,3 +19,8 @@ related to OOPs like Objects, Classes and some Data Structure Concepts related t
 Sets and ArrayList.
 
 
+# Output
+
+The output for the executed program is in the "FlashcardsApplication Output" folder.
+
+
